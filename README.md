@@ -10,8 +10,9 @@ https://cloud-club.github.io/cloudclub-homepage/
 
 <br>
 
-### Github Action Workflow
-
+### Github Action Workflow Trigger
+- main 브랜치에 PUSH or PR
+- action에서 수동'Run workflow'
 
 <br>
 
