@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CloudClub Hompage 만들어보자!
+          CloudClub Hompage CI Test
         </p>
         <a
           className="App-link"
