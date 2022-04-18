@@ -10,11 +10,16 @@ https://cloud-club.github.io/cloudclub-homepage/
 
 <br>
 
+### Github Action Workflow
+
+
+<br>
+
 ### GUI Desgin
 ![](https://velog.velcdn.com/images/ginee_park/post/53370141-5946-41de-b251-605721ac4bbb/image.png)
 
 <br>
 
 ### Contributor
-<a href="https://github.com/gineepark"><img src="https://avatars.githubusercontent.com/u/60264957?v=4" width="100px;" alt=""/><br /><sub><b>박진희</b></sub></a><br /><a\>🧑‍💼<br>FE<br>모니터링 담당자</a>
+<a href="https://github.com/gineepark"><img src="https://avatars.githubusercontent.com/u/60264957?v=4" width="100px;" alt=""/><br /><sub><b>박진희</b></sub></a>
 
